@@ -56,7 +56,7 @@ The goal of this project is to practice backend development, database modeling, 
    pipenv install
    pipenv shell
    ```
-   # Or using venv
+   Or using venv
    ```bash
    python -m venv venv
    source venv/bin/activate  # Linux / macOS
